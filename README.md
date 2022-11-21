@@ -22,3 +22,13 @@ pmc_idconv 30003000 30003001 30003002
 # Output to a file
 pmc_idconv 30003000 30003001 30003002 -o out.json
 ```
+
+### Python
+```python
+from pmc_id_converter import API
+
+API.idconv('PMC3531190')
+API.idconv('PMC3531190', 'PMC3531191123', 'PMC3531191')
+API.idconv('23193287')
+API.idconv('10.1093/nar/gks1195')
+```
