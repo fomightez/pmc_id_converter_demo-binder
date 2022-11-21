@@ -1,2 +1,2 @@
 include requirements.txt
-include pmc_id_converter/version/version.json
+include pmc_id_converter/version.json
