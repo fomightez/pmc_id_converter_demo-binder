@@ -13,13 +13,13 @@ __epilog__ = click.style(f'''
 
 \b
 Examples:
-    {{prog}} --help
-    {{prog}} 30003000                     [PMID]
-    {{prog}} PMC6039336                   [PMCID]
-    {{prog}} 10.1007/s13205-018-1330-z    [DOI]
-    {{prog}} 30003000 30003001 30003002   [BATCH]
-    {{prog}} 30003000 30003001 -o out.jl  [FILE]
-    
+    pmc_idconv --help
+    pmc_idconv 30003000                     [PMID]
+    pmc_idconv PMC6039336                   [PMCID]
+    pmc_idconv 10.1007/s13205-018-1330-z    [DOI]
+    pmc_idconv 30003000 30003001 30003002   [BATCH]
+    pmc_idconv 30003000 30003001 -o out.jl  [FILE]  
+
 {contact}
 '''.format(**version_info), fg='green')
 
