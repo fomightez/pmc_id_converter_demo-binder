@@ -1,3 +1,1 @@
-click
-requests
-simple_loggers
+pmc-id-converter
