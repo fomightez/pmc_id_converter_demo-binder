@@ -54,6 +54,12 @@ records_of_query_results = API.idconv(query_ids)
 for record in records_of_query_results:
     print(record)
 
+my_pmids = []
+query_ids = 'PMC3531190, PMC3531191123, PMC3531191'
+records_of_query_results = API.idconv(query_ids)
+for record in records_of_query_results:
+    my_pmids.append(record.data.get('pmid'))
+print(my_pmids)
 ```
 
 
