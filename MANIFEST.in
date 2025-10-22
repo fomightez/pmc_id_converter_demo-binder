@@ -1,2 +1,0 @@
-include requirements.txt
-include pmc_id_converter/version.json
