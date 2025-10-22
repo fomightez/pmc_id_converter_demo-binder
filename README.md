@@ -18,7 +18,7 @@ I use Jupyter Notebooks here with some code to demonstrate how easy it is to use
 ## Usage
 ### Command Line
 
-See [the source repo here](https://github.com/suqingdong/pmc_id_converter#command-line) for command line details.
+See [the source repo here](https://github.com/suqingdong/pmc_id_converter#command-line) for command line Usage details.
 
 ### Python
 
