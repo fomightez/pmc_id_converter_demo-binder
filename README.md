@@ -15,6 +15,51 @@ I use Jupyter Notebooks here with some code to demonstrate how easy it is to use
 
 --------
 
+## Usage
+### Command Line
+
+See [the sourc repo here](https://github.com/suqingdong/pmc_id_converter#command-line)
+
+### Python
+
+(The offerings at the source repo would be best as this, I suggest. See the demo for more information.)
+
+```python
+from pmc_id_converter import API
+
+query_id = 'PMC3531190'
+records_of_query_results = API.idconv(query_id)
+for record in records_of_query_results:
+    print(record)
+query_id = '23193287'
+records_of_query_results = API.idconv(query_id)
+for record in records_of_query_results:
+    print(record)
+query_id = '10.1093/nar/gks1195'
+records_of_query_results = API.idconv(query_id)
+for record in records_of_query_results:
+    print(record)
+print(record.data['pmcid'])
+print(record.data['pmid'])
+print(record.data['doi'])
+
+
+records_of_query_results = API.idconv('PMC3531190', 'PMC3531191123', 'PMC3531191')
+for record in records_of_query_results:
+    print(record)
+
+#--OR---
+query_ids = 'PMC3531190, PMC3531191123, PMC3531191'
+records_of_query_results = API.idconv(query_ids)
+for record in records_of_query_results:
+    print(record)
+
+```
+
+
+
+-------
+
 ## Related utilities
 
 - ???
