@@ -6,7 +6,7 @@ Click 'launch' badge above to get started.
 
 See [suqingdong's repo for pmc_id_converter here](https://github.com/suqingdong/pmc_id_converter) for more about the command line/Python utility.
 
-I use Jupyter Notebooks here with some code to demonstrate how easy it is to use and how you can combine `pmc_id_converter` use in with Python coding and Jupyter conveience to more easily mine or collect information you need.
+I use Jupyter Notebooks here with some code to demonstrate how easy it is to use and how you can combine `pmc_id_converter` use in with Python coding and Jupyter convenience to more easily mine or collect information you need.
 
 
 ## Attribution
