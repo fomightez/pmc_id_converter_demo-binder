@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pmc_id_converter_demo-binder/HEAD?urlpath=%2Flab%2Ftree%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pmc_id_converter_demo-binder/HEAD?urlpath=%2Flab%2Ftree%2Fnotebooks%2Findex.ipynb)
 
 # pmc_id_converter_demo-binder
 Demonstrating of pmc_id_converter for ID converter between PMID, PMCID and DOI, via the MyBnder service.  
