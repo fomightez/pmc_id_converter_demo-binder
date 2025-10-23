@@ -8,7 +8,7 @@ See [suqingdong's repo for pmc_id_converter here](https://github.com/suqingdong/
 
 I use Jupyter Notebooks here with some code to demonstrate how easy it is to use and how you can combine `pmc_id_converter` use in with Python coding and Jupyter convenience to more easily mine or collect information you need about scientific references at PubMed Central and PubMed.
 
-## IMPORTANT NOTE ABOUT PLAYING NICE WITH the NCBI API Service:
+## IMPORTANT: PLAY NICE with the NCBI API Service:
 
 You should remember to use your actual email address when using it in production.
 
