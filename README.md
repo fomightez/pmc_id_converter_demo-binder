@@ -14,6 +14,8 @@ You should remember to use your actual email address when using it in production
 
 When installed via `pip` it doesn't prompt you to set email. If you are using this to do a lot you should clone [suqingdong's original repo for pmc_id_converter from here](https://github.com/suqingdong/pmc_id_converter) and edit the code to set the email to your email to consider NCBI.
 
+In fact, [the pubmed-id package](https://github.com/nelsonaloysio/pubmed-id) looks to do much the same thing and has more guidelines about email and usage to not abuse the API.
+
 
 ## Attribution
 
@@ -75,5 +77,5 @@ print(my_pmids)
 
 ## Related utilities
 
-- ???
+-[pubmed-id package](https://github.com/nelsonaloysio/pubmed-id) looks to do much the same thing and has been created more recently with more guidelines about email and usage to not abuse the API.
 
