@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pmc_id_converter_demo-binder/HEAD?urlpath=%2Flab%2Ftree%2FDemonstrate+pmc_id_converter.ipynb)
 
 # pmc_id_converter_demo-binder
-Demonstrating of pmc_id_converter for ID converter between PMID, PMCID and DOI, via the MyBnder service.  
+Demonstrating of pmc_id_converter for ID converter between PMID, PMCID and DOI, via the MyBinder service.  
 Click 'launch' badge above to get started.
 
 See [suqingdong's repo for pmc_id_converter here](https://github.com/suqingdong/pmc_id_converter) for more about the command line/Python utility.
