@@ -1,3 +1,8 @@
+**`**`THIS WILL PROVIDE A MYBINDER-SERVED DEMO OF [suqingdong's pmc_id_converter](https://github.com/suqingdong/pmc_id_converter); HOWEVER, I SUGGEST MY MORE MODERN [PubMed Central ID Converter for humans](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans).`**`**
+
+My [PubMed Central ID Converter for humans](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans) addresses some of the minor shortcomings the demo here highlights. More importantly, it offers more convenience & functionality, and moreover, can work in more modern Python-based situations like WebAssembly (WASM)-based Python (Pyodide) & JupyterLite.
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/pmc_id_converter_demo-binder/HEAD?urlpath=%2Flab%2Ftree%2FDemonstrate+pmc_id_converter.ipynb)
 
 # pmc_id_converter_demo-binder
