@@ -31,7 +31,7 @@ In fact, [the pubmed-id package](https://github.com/nelsonaloysio/pubmed-id) loo
 
 ## Attribution
 
-***Clarifying Software Attribution: I, Wayne, am not involved with suqingdong's pmc_id_converter development in any way. I simply set up this repository to demonstrate the use of it in MyBinder-served Jupyter Sessions. See the links above and below for the materials by suqingdong who develops and maintains fpmc_id_converter.***
+***Clarifying Software Attribution: I, Wayne, am not involved with suqingdong's pmc_id_converter development in any way. I simply set up this repository to demonstrate the use of it in MyBinder-served Jupyter Sessions. See the links above and below for the materials by suqingdong who develops and maintains pmc_id_converter.***
 
 --------
 
