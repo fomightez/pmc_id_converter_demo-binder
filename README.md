@@ -89,5 +89,7 @@ print(my_pmids)
 
 ## Related utilities
 
+- [PubMed Central ID Converter for humans](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans) - a more modern converting package addresses some of the minor shortcomings the demo above highlights. More importantly, it offers more convenience & functionality, and moreover, can work in more modern Python-based situations like WebAssembly (WASM)-based Python (Pyodide) & JupyterLite.
+
 - [pubmed-id package](https://github.com/nelsonaloysio/pubmed-id) looks to do much the same thing and has been created more recently with more guidelines about email and usage to not abuse the API. Additionally, this package goes beyond using the API and can do some webscaping, supposedly, and so it is able to return identifiers for those not present in PubMed Central because, as noted above, "PMC ID Converter API will only return related IDs if the article is in PubMed Central (PMC).", see [here](https://github.com/nelsonaloysio/pubmed-id#scrape-data-from-website) about , "Note: some papers are unavailable from the API, but still return data when scraped, e.g., PMID 15356126".
 
